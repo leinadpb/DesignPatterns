@@ -1,0 +1,11 @@
+c:\users\leinad\source\repos\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.deps.json
+c:\users\leinad\source\repos\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.runtimeconfig.json
+c:\users\leinad\source\repos\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.runtimeconfig.dev.json
+c:\users\leinad\source\repos\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.dll
+c:\users\leinad\source\repos\DesignPatterns\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.pdb
+c:\users\leinad\source\repos\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.csprojAssemblyReference.cache
+c:\users\leinad\source\repos\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.csproj.CoreCompileInputs.cache
+c:\users\leinad\source\repos\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.AssemblyInfoInputs.cache
+c:\users\leinad\source\repos\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.AssemblyInfo.cs
+c:\users\leinad\source\repos\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.dll
+c:\users\leinad\source\repos\DesignPatterns\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.pdb
