@@ -1,0 +1,11 @@
+c:\users\leinad\source\repos\DesignPatterns\NullObjectPattern\bin\Debug\netcoreapp2.1\NullObjectPattern.deps.json
+c:\users\leinad\source\repos\DesignPatterns\NullObjectPattern\bin\Debug\netcoreapp2.1\NullObjectPattern.runtimeconfig.json
+c:\users\leinad\source\repos\DesignPatterns\NullObjectPattern\bin\Debug\netcoreapp2.1\NullObjectPattern.runtimeconfig.dev.json
+c:\users\leinad\source\repos\DesignPatterns\NullObjectPattern\bin\Debug\netcoreapp2.1\NullObjectPattern.dll
+c:\users\leinad\source\repos\DesignPatterns\NullObjectPattern\bin\Debug\netcoreapp2.1\NullObjectPattern.pdb
+c:\users\leinad\source\repos\DesignPatterns\NullObjectPattern\obj\Debug\netcoreapp2.1\NullObjectPattern.csprojAssemblyReference.cache
+c:\users\leinad\source\repos\DesignPatterns\NullObjectPattern\obj\Debug\netcoreapp2.1\NullObjectPattern.csproj.CoreCompileInputs.cache
+c:\users\leinad\source\repos\DesignPatterns\NullObjectPattern\obj\Debug\netcoreapp2.1\NullObjectPattern.AssemblyInfoInputs.cache
+c:\users\leinad\source\repos\DesignPatterns\NullObjectPattern\obj\Debug\netcoreapp2.1\NullObjectPattern.AssemblyInfo.cs
+c:\users\leinad\source\repos\DesignPatterns\NullObjectPattern\obj\Debug\netcoreapp2.1\NullObjectPattern.dll
+c:\users\leinad\source\repos\DesignPatterns\NullObjectPattern\obj\Debug\netcoreapp2.1\NullObjectPattern.pdb
