@@ -1,0 +1,10 @@
+c:\users\leinad\source\repos\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.1\PrototypePattern.deps.json
+c:\users\leinad\source\repos\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.1\PrototypePattern.runtimeconfig.json
+c:\users\leinad\source\repos\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.1\PrototypePattern.runtimeconfig.dev.json
+c:\users\leinad\source\repos\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.1\PrototypePattern.dll
+c:\users\leinad\source\repos\DesignPatterns\PrototypePattern\bin\Debug\netcoreapp2.1\PrototypePattern.pdb
+c:\users\leinad\source\repos\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.1\PrototypePattern.csproj.CoreCompileInputs.cache
+c:\users\leinad\source\repos\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.1\PrototypePattern.AssemblyInfoInputs.cache
+c:\users\leinad\source\repos\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.1\PrototypePattern.AssemblyInfo.cs
+c:\users\leinad\source\repos\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.1\PrototypePattern.dll
+c:\users\leinad\source\repos\DesignPatterns\PrototypePattern\obj\Debug\netcoreapp2.1\PrototypePattern.pdb
