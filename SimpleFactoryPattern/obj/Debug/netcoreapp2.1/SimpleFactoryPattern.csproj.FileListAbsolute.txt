@@ -1,0 +1,11 @@
+c:\users\leinad\source\repos\DesignPatterns\SimpleFactoryPattern\bin\Debug\netcoreapp2.1\SimpleFactoryPattern.deps.json
+c:\users\leinad\source\repos\DesignPatterns\SimpleFactoryPattern\bin\Debug\netcoreapp2.1\SimpleFactoryPattern.runtimeconfig.json
+c:\users\leinad\source\repos\DesignPatterns\SimpleFactoryPattern\bin\Debug\netcoreapp2.1\SimpleFactoryPattern.runtimeconfig.dev.json
+c:\users\leinad\source\repos\DesignPatterns\SimpleFactoryPattern\bin\Debug\netcoreapp2.1\SimpleFactoryPattern.dll
+c:\users\leinad\source\repos\DesignPatterns\SimpleFactoryPattern\bin\Debug\netcoreapp2.1\SimpleFactoryPattern.pdb
+c:\users\leinad\source\repos\DesignPatterns\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.csprojAssemblyReference.cache
+c:\users\leinad\source\repos\DesignPatterns\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.csproj.CoreCompileInputs.cache
+c:\users\leinad\source\repos\DesignPatterns\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.AssemblyInfoInputs.cache
+c:\users\leinad\source\repos\DesignPatterns\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.AssemblyInfo.cs
+c:\users\leinad\source\repos\DesignPatterns\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.dll
+c:\users\leinad\source\repos\DesignPatterns\SimpleFactoryPattern\obj\Debug\netcoreapp2.1\SimpleFactoryPattern.pdb
