@@ -1,0 +1,10 @@
+c:\users\leinad\source\repos\DesignPatterns\MVCPattern_DesktopApp\bin\Debug\MVCPattern_DesktopApp.exe.config
+c:\users\leinad\source\repos\DesignPatterns\MVCPattern_DesktopApp\bin\Debug\MVCPattern_DesktopApp.exe
+c:\users\leinad\source\repos\DesignPatterns\MVCPattern_DesktopApp\bin\Debug\MVCPattern_DesktopApp.pdb
+c:\users\leinad\source\repos\DesignPatterns\MVCPattern_DesktopApp\obj\Debug\MVCPattern_DesktopApp.csprojAssemblyReference.cache
+c:\users\leinad\source\repos\DesignPatterns\MVCPattern_DesktopApp\obj\Debug\MVCPattern_DesktopApp.Views.Form1.resources
+c:\users\leinad\source\repos\DesignPatterns\MVCPattern_DesktopApp\obj\Debug\MVCPattern_DesktopApp.Properties.Resources.resources
+c:\users\leinad\source\repos\DesignPatterns\MVCPattern_DesktopApp\obj\Debug\MVCPattern_DesktopApp.csproj.GenerateResource.cache
+c:\users\leinad\source\repos\DesignPatterns\MVCPattern_DesktopApp\obj\Debug\MVCPattern_DesktopApp.csproj.CoreCompileInputs.cache
+c:\users\leinad\source\repos\DesignPatterns\MVCPattern_DesktopApp\obj\Debug\MVCPattern_DesktopApp.exe
+c:\users\leinad\source\repos\DesignPatterns\MVCPattern_DesktopApp\obj\Debug\MVCPattern_DesktopApp.pdb
