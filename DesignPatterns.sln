@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCPattern_DesktopApp", "MV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{F96F1157-319E-440B-8AFF-8ED85C181036}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPattern", "FactoryMethodPattern\FactoryMethodPattern.csproj", "{F7E0CB70-C12D-442C-B0BA-015D4BCFF8F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F96F1157-319E-440B-8AFF-8ED85C181036}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F96F1157-319E-440B-8AFF-8ED85C181036}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F96F1157-319E-440B-8AFF-8ED85C181036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E0CB70-C12D-442C-B0BA-015D4BCFF8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E0CB70-C12D-442C-B0BA-015D4BCFF8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E0CB70-C12D-442C-B0BA-015D4BCFF8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E0CB70-C12D-442C-B0BA-015D4BCFF8F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

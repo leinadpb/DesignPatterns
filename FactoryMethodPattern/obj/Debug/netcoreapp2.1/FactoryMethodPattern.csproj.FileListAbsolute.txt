@@ -1,0 +1,10 @@
+C:\Users\LEINAD\source\repos\DesignPatterns\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.deps.json
+C:\Users\LEINAD\source\repos\DesignPatterns\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.runtimeconfig.json
+C:\Users\LEINAD\source\repos\DesignPatterns\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.runtimeconfig.dev.json
+C:\Users\LEINAD\source\repos\DesignPatterns\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.dll
+C:\Users\LEINAD\source\repos\DesignPatterns\FactoryMethodPattern\bin\Debug\netcoreapp2.1\FactoryMethodPattern.pdb
+C:\Users\LEINAD\source\repos\DesignPatterns\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\LEINAD\source\repos\DesignPatterns\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\LEINAD\source\repos\DesignPatterns\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\LEINAD\source\repos\DesignPatterns\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.dll
+C:\Users\LEINAD\source\repos\DesignPatterns\FactoryMethodPattern\obj\Debug\netcoreapp2.1\FactoryMethodPattern.pdb
