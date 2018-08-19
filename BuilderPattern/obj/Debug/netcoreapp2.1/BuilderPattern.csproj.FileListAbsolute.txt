@@ -1,0 +1,10 @@
+C:\Users\LEINAD\source\repos\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.deps.json
+C:\Users\LEINAD\source\repos\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.runtimeconfig.json
+C:\Users\LEINAD\source\repos\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.runtimeconfig.dev.json
+C:\Users\LEINAD\source\repos\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.dll
+C:\Users\LEINAD\source\repos\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.pdb
+C:\Users\LEINAD\source\repos\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\LEINAD\source\repos\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\LEINAD\source\repos\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.AssemblyInfo.cs
+C:\Users\LEINAD\source\repos\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.dll
+C:\Users\LEINAD\source\repos\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.pdb
